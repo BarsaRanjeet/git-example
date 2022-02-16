@@ -1,7 +1,7 @@
 # git-example
 - This is a just git practice for Brainvire Infotech
 - This is a master branch
-- changes first time
+- changes second time
 
 ## git clone
 - git clone <link>
