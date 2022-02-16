@@ -2,7 +2,7 @@
 - This is a just git practice for Brainvire Infotech
 - This is a development branch
 - This branch is changed
-- changes to see fetch --all feature
+- last commit
 
 ## git clone
 - git clone <link>
